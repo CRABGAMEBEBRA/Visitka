@@ -1,0 +1,277 @@
+body{
+	background-color: black;
+}
+.compl{
+	font-family: Yeseva One;
+	position: relative;
+	font-size: 27px;
+	font-weight: 400;
+	line-height: 37.42px;
+	letter-spacing: -0.07em;
+	text-align: left;
+	width: 253px;
+	height: 66px;
+	gap: 0px;
+	color: #E3B873;
+	opacity: 0px;
+}
+.city{
+	font-family: Yeseva One;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 24.95px;
+	text-align: left;
+	color: #E3B873;
+	position: relative;
+	width: 66px;
+	height: 22px;
+	top: 0px;
+	left: 0px;
+	gap: 0px;
+	opacity: 0px;
+	font-family: Yeseva One;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 24.95px;
+	text-align: left;
+
+}
+.apart{
+	position: relative;
+	width: 213px;
+	height: 22px;
+	top: 404.36px;
+	left: 324px;
+	gap: 0px;
+	opacity: 0px;
+	font-family: Yeseva One;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 24.95px;
+	text-align: left;
+	color: #E3B873;
+}
+.rep{
+	position: relative;
+	width: 156px;
+	height: 22px;
+	top: 0px;
+	left: 0px;
+	gap: 0px;
+	opacity: 0px;
+	font-family: Yeseva One;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 24.95px;
+	text-align: left;
+	color: #E3B873;
+}
+.cost{
+	position: relative;
+	width: 218px;
+	height: 22px;
+	top: 0px;
+	left: 0px;
+	gap: 0px;
+	opacity: 0px;
+	font-family: Yeseva One;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 24.95px;
+	text-align: left;
+	color: #E3B873;
+}
+.osn{
+	position: relative;
+	width: 442px;
+	height: 390px;
+	top: 176.36px;
+	left: 134px;
+	gap: 0px;
+	opacity: 0px;
+
+}
+.palka{
+	position: absolute;
+	left:161px;
+	top:51px;
+}
+.text{
+	position: relative;
+	width: 442px;
+	height: 86px;
+	top:34px;
+	gap: 0px;
+	opacity: 0px;
+	font-family: Nunito Sans;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 26.73px;
+	text-align: left;
+	color: #FFFFFF;
+
+}
+.kno1{
+	position: relative;
+	width: 161px;
+	height: 73px;
+	top:0px;
+	gap: 0px;
+	opacity: 0px;
+	font-family: Nunito Sans;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 26.73px;
+	text-align: left;
+	color: #FFFFFF;
+}
+.city{
+	position: relative;
+}
+.okno{
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	width: 442px;
+	height: 204px;
+	top: 76px;
+	left: 0px;
+	gap: 0px;
+	opacity: 0px;
+}
+.kno2{
+	position: relative;
+	width: 213px;
+	height: 52px;
+	top:0px;
+	gap: 0px;
+	opacity: 0px;
+	font-family: Nunito Sans;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 26.73px;
+	text-align: left;
+	color: #FFFFFF;
+	left:29px;
+}
+.apartm{
+	width: 213px;
+	height: 22px;
+	font-family: Yeseva One;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 24.95px;
+	text-align: left;
+	color: #E3B873;
+}
+.kno3{
+	position: relative;
+	width: 156px;
+	height: 55px;
+	top:0px;
+	gap: 0px;
+	opacity: 0px;
+	font-family: Nunito Sans;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 26.73px;
+	text-align: left;
+	color: #FFFFFF;
+}
+.rep{
+	width: 156px;
+	height: 22px;
+	font-family: Yeseva One;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 24.95px;
+	text-align: left;
+	color: #E3B873;
+}
+.kno4{
+	position: relative;
+	width: 218px;
+	height: 75px;
+	top:0px;
+	gap: 0px;
+	opacity: 0px;
+	font-family: Nunito Sans;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 26.73px;
+	text-align: left;
+	color: #FFFFFF;
+	left:34px;
+}
+.nazv{
+	position: absolute;
+	width: 623px;
+	height: 24px;
+	top: 107px;
+	left: 626px;
+	gap: 0px;
+	opacity: 0px;
+	display: flex;
+}
+.nazv1{
+	font-family: Yeseva One;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 19.4px;
+	text-align: left;
+	color: #FFFFFF4D;
+	margin-right: 60px;
+	width: 194px;
+}
+.nazv2{
+	font-family: Yeseva One;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 19.4px;
+	text-align: left;
+	color: #FFFFFF4D;
+	margin-right: 60px;
+	width: 109px;
+}
+.nazv3{
+	font-family: Yeseva One;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 19.4px;
+	text-align: left;
+	color: #FFFFFF4D;
+	width: 199px;
+}
+.right{
+	font-family: Yeseva One;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 19.4px;
+	text-align: left;
+	color: #E3B873;
+	text-decoration: underline;
+	text-decoration-color:#E3B873;
+	text-underline-offset:6.68px;
+}
+.prev{
+	position: absolute;
+	top:646px;
+	left:135px;
+}
+.next{
+	position: absolute;
+	top:646px;
+	left:299px;
+}
+.image1{
+	position: absolute;
+	top:176px;
+	left:626px;
+	width: 679px;
+	height: 482.38px;
+}
+.kruj1{
+	position: absolute;
+	top:647px;
+	left:206px;
+}
